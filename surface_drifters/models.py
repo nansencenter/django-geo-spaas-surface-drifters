@@ -2,7 +2,7 @@
 from __future__ import unicode_literals
 
 from geospaas.catalog.models import Dataset as CatalogDataset
-from surface_drifters.management import DrifterDatasetManager
+from surface_drifters.managers import DrifterDatasetManager
 
 
 class DrifterDataset(CatalogDataset):

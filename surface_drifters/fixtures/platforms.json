@@ -1,0 +1,10 @@
+[{
+  "fields": {
+    "category": "",
+    "long_name": "",
+    "series_entity": "",
+    "short_name": "iSLDMB"
+  },
+  "model": "vocabularies.platform",
+  "pk": 1999
+}]
